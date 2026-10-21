@@ -1,5 +1,5 @@
-url: https://github.com/ZephyrAssa/dsh-desktop-hand
-name: ZephyrAssa/dsh-desktop-hand
+url: https://github.com/AsterionZephyr/dsh-desktop-hand
+name: AsterionZephyr/dsh-desktop-hand
 category: tools
 description:
   en: 'Windows-only desktop control for DSH with six tools that list windows, capture occluded windows, focus windows, click by coordinate, inject Unicode keyboard input, and diagnose the desktop bridge.'
