@@ -1,0 +1,6 @@
+url: https://github.com/ZephyrAssa/dsh-desktop-hand
+name: ZephyrAssa/dsh-desktop-hand
+category: tools
+description:
+  en: 'Windows-only desktop control for DSH with six tools that list windows, capture occluded windows, focus windows, click by coordinate, and inject Unicode keyboard input.'
+  zh: 'DSH 的 Windows 桌面控制插件，六个工具：列出窗口、抓取被遮挡窗口、聚焦窗口、按坐标点击与注入 Unicode 键盘输入。'
